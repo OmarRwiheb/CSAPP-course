@@ -82,3 +82,12 @@
   - [ ] video
 - [ ] Future of Computing II
   - [ ] video
+
+### My progress for labs of CS:APP3e
+- [ ] Lab1: data lab
+- [ ] Lab2: bomb lab
+- [ ] Lab3: attack lab
+- [ ] Lab4: cache lab
+- [ ] Lab5: shell lab
+- [ ] Lab6: malloc lab
+- [ ] Lab7: proxy lab
