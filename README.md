@@ -2,10 +2,10 @@
 ### my progress for [CMU 15-213: Intro to Computer Systems, Fall 2015](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)
 - [ ] Overview
   - [ ] reading 1
-  - [ ] video
+  - [x] video
 - [ ] Bits, Bytes, & Integers I
   - [ ] reading 2.1
-  - [ ] video
+  - [x] video
 - [ ] Bits, Bytes, & Integers II
   - [ ] reading 2.2-2.3
   - [ ] video
