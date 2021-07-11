@@ -1,7 +1,7 @@
 # CSAPP-course
 ### my progress for [CMU 15-213: Intro to Computer Systems, Fall 2015](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)
-- [ ] Overview
-  - [ ] reading 1
+- [x] Overview
+  - [x] reading 1
   - [x] video
 - [ ] Bits, Bytes, & Integers I
   - [ ] reading 2.1
