@@ -84,6 +84,7 @@
   - [ ] video
 
 ### My progress for labs of CS:APP3e
+- [ ] Lab0: linux bootcamp
 - [ ] Lab1: data lab
 - [ ] Lab2: bomb lab
 - [ ] Lab3: attack lab
