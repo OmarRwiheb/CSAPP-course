@@ -3,8 +3,8 @@
 - [x] Overview
   - [x] reading 1
   - [x] video
-- [ ] Bits, Bytes, & Integers I
-  - [ ] reading 2.1
+- [x] Bits, Bytes, & Integers I
+  - [x] reading 2.1
   - [x] video
 - [ ] Bits, Bytes, & Integers II
   - [ ] reading 2.2-2.3
