@@ -8,7 +8,7 @@
   - [x] video
 - [ ] Bits, Bytes, & Integers II
   - [ ] reading 2.2-2.3
-  - [ ] video
+  - [x] video
 - [ ] Floating Point
   - [ ] reading 2.4
   - [ ] video
